@@ -1,0 +1,10 @@
+Good records:      140 (23.3 h)
+Rejected records:  4
+Energy delivered:  19.18 MWh
+Power-curve value: 20.09 MWh
+Capacity factor:   41.1%
+Performance ratio: 0.955
+  rejected 07:20 (ValueError)
+  rejected 11:40 (TypeError)
+  rejected 15:10 (ValueError)
+  rejected 18:30 (ValueError)

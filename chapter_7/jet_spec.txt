@@ -1,0 +1,7 @@
+# Light business jet, illustrative specification
+mtow           21500   lb
+wing_area        323   ft2
+thrust_engine   3600   lbf
+cruise_speed     440   kt
+range           2000   nmi
+fuel_volume      900   gal
